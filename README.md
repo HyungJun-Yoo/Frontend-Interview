@@ -20,3 +20,5 @@
 - [브라우저 렌더링 과정](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/프론트엔드/브라우저%20렌더링%20과정.md)
 - [Reflow와 Repaint](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/프론트엔드/Reflow와%20Repaint.md)
 - [URL을 입력하면 일어나는 일](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/프론트엔드/브라우저에%20URL을%20입력하면%20일어나는%20일.md)
+- [REST API란](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/프론트엔드/REST%20API란.md)
+- [SPA, CSR, SSR의 차이](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/프론트엔드/SPA,%20CSR,%20SSR의%20차이)
