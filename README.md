@@ -12,6 +12,7 @@
 ## 목차
 
 - [프론트엔드](#프론트엔드)
+- [JavaScript](#JavaScript)
 
 <br />
 
@@ -21,4 +22,9 @@
 - [Reflow와 Repaint](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/프론트엔드/Reflow와%20Repaint.md)
 - [URL을 입력하면 일어나는 일](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/프론트엔드/브라우저에%20URL을%20입력하면%20일어나는%20일.md)
 - [REST API란](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/프론트엔드/REST%20API란.md)
-- [SPA, CSR, SSR의 차이](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/프론트엔드/SPA,%20CSR,%20SSR의%20차이)
+- [SPA, CSR, SSR의 차이](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/프론트엔드/SPA,%20CSR,%20SSR의%20차이.md)
+
+## JavaScript
+
+- [호이스팅과 발생하는 이유](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/JavaScript/호이스팅과%20발생하는%20이유.md)
+- [클로저(Closure)란](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/JavaScript/클로저(Closure)란.md)
