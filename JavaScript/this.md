@@ -12,11 +12,8 @@
 ### this 바인딩 우선순위
 
 1. new 바인딩
-
 2. 명시적 바인딩  ```call, apply, bind```
-
 3. 암시적 바인딩
-
 4. 전역 객체 바인딩 
 > strict mode(엄격 모드): undefined <br />
 > 일반: 브라우저라면 window 객체
