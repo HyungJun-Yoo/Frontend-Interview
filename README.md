@@ -26,7 +26,11 @@
 
 ## JavaScript
 
+- [JavaScript란](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/JavaScript/JavaScript란.md)
 - [실행 컨텍스트](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/JavaScript/실행%20컨텍스트.md)
 - [호이스팅과 발생하는 이유](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/JavaScript/호이스팅과%20발생하는%20이유.md)
 - [클로저(Closure)란](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/JavaScript/클로저(Closure)란.md)
 - [this](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/JavaScript/this.md)
+- [이벤트 버블링 vs 이벤트 캡처링](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/JavaScript/이벤트%20버블링%20vs%20이벤트%20캡처링.md)
+- [비동기에 대한 설명](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/JavaScript/비동기%20과정.md)
+- [비동기 처리 방식](https://github.com/HyungJun-Yoo/Frontend-Interview/blob/main/JavaScript/비동기%20처리%20방식.md)
